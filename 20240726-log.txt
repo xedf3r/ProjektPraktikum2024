@@ -1,0 +1,18 @@
+49g DFB
+512ml/min N2O 08:55-10:45
+100ml/min SF6 08:55-10:45
+
+10:xx wind an @6.3, skimmen
+11:00 Lueftung aus
+hw=101.2cm
+11:50 Lueftung an wind@8.9
+12:05 Lueftung aus
+12:55 Lueftung an wind@12.6
+13:10 Lueftung aus
+13:55 Lueftung an, wind @17.8
+hw=100.3
+14:10 Lueftung aus
+14:55 Lueftung an, wind@25.2
+15:10 Lueftung aus
+15:50 spindown
+16:50 Lueftung an
